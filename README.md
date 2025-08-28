@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/Peshoy Reda/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+### 👋 Hi there, I'm Peshoy
 
 🎓 I'm a 2nd-year student at the Faculty of Computers and Information, **Ahram Canadian University (ACU)**.  
 💻 Currently learning **C++ (up to OOP)** and **Python (Level 1)**.  
@@ -22,8 +22,8 @@
 ---
 
 ### 📊 GitHub Stats
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
+<a href="https://github.com/PeshoyReda">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=PeshoyReda&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeshoyReda&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
 </a>
 
