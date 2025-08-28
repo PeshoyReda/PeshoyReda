@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Peshoy
+[![](https://raw.githubusercontent.com/adamalston/Peshoy Reda/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
 🎓 I'm a 2nd-year student at the Faculty of Computers and Information, **Ahram Canadian University (ACU)**.  
 💻 Currently learning **C++ (up to OOP)** and **Python (Level 1)**.  
